@@ -6,3 +6,8 @@ This repo contains my attempts for the various challages from Advent of Code 202
 Part I: **PASSED**
 
 Part II: **PASSED**
+
+## Day 2
+Part I: **PASSED**
+
+Part II: **PASSED**
