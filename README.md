@@ -11,3 +11,8 @@ Part II: **PASSED**
 Part I: **PASSED**
 
 Part II: **PASSED**
+
+## Day 3
+Part I: **PASSED**
+
+Part II: **PASSED**
